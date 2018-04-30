@@ -6,4 +6,4 @@
 
 * *Data Augmentation* : A data augmentation code to randomly transform images for preventing overfitting.
 
-* *Predicting-whale-Keras-CNN* : Build a model for predicting whether an image is of whale or not.
+* Whale-Classification using CNN Keras* : Build a model for predicting whether an image is of whale or not.
